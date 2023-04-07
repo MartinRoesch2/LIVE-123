@@ -11,6 +11,6 @@ LIVE-123 consists of three sub-processes:
 
  - LIVE-2 for documenting the actions performed in the problem domain
 
- - LIVE-3 for implementing the actions in software
+ - LIVE-3 for implementing the actions in software and processes
 
  
